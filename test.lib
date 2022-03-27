@@ -1,0 +1,23 @@
+  operating_conditions ("0CFF1P32") {
+    process : 1.01;
+    temperature : -40;
+    voltage : 1.08;
+  }
+
+    operating_conditions ("0CFF1P32") {
+    process : 0.89;
+    temperature : -40;
+    voltage : 1.08;
+  }
+
+    operating_conditions ("0CFF1P32") {
+    process : 1;
+    temperature : 123;
+    voltage : 1.08;
+  }
+
+    operating_conditions (N40CFF1P08) {
+    process : 1;
+    temperature : -40;
+    voltage : 1.08;
+  }
